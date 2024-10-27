@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-Email: dairuiyang3@gmail.com
-LinkedIn: [Ruiyang Dai](https://www.linkedin.com/in/ruiyang-dai-cmu/)
+**Email:** dairuiyang3@gmail.com  
+**LinkedIn:** [Ruiyang Dai](https://www.linkedin.com/in/ruiyang-dai-cmu/)
