@@ -1,4 +1,10 @@
-# Hacking 101 Course Artifact - Ruiyang Dai
+```yaml
+# Configurations
+title:            Hacking 101 Course Artifact
+longtitle:        Hacking 101 Course Artifact
+
+remote_theme:     sighingnow/jekyll-gitbook
+```
 
 This course used CTF problem and CVEs to aid in acquiring new skills and knowledge.
 

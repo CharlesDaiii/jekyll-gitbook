@@ -1,3 +1,11 @@
+```yaml
+# Configurations
+title:            ACC Midterm Review
+longtitle:        ACC Midterm Review
+
+remote_theme:     sighingnow/jekyll-gitbook
+```
+
 # Midterm Review
 
 ### Load Balancing
