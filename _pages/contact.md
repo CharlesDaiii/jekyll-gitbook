@@ -1,9 +1,10 @@
 ---
 title: Contact
-author: Tao He
-date: 2022-02-05
+author: Ruiyang Dai
+date: 2024-10-27
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Email: dairuiyang3@gmail.com
+LinkedIn: [Ruiyang Dai](https://www.linkedin.com/in/ruiyang-dai-cmu/)

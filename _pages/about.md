@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Ruiyang Dai
+date: 2024-10-27
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+I’m Ruiyang Dai, a graduate student in Electrical and Computer Engineering at Carnegie Mellon University. With a background in backend engineering, I specialize in creating scalable, real-time systems and have a strong expertise in distributed computing. Additionally, I am experienced in XR development, focusing on real-time rendering and building scalable solutions tailored to immersive XR environments.
